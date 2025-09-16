@@ -1,0 +1,66 @@
+{
+  "category": "dns-servers",
+  "created_date": "2025-09-15T22:48:58.447592",
+  "default_ports": [
+    53,
+    80,
+    443,
+    2048
+  ],
+  "dependencies": [
+    "nsd-control",
+    "ldns-utils"
+  ],
+  "description": "NSD is a free and open-source DNS Server. An authoritative-only, high performance DNS server",
+  "difficulty_level": "intermediate",
+  "documentation_url": "https://howtomgr.github.io/dns-servers/nsd",
+  "estimated_setup_time": "15-30 minutes",
+  "features": [
+    "multi-os-support",
+    "comprehensive-documentation",
+    "security-hardening",
+    "performance-optimization",
+    "backup-restore-procedures",
+    "troubleshooting-guides"
+  ],
+  "guide_path": "/dns-servers/nsd",
+  "installation_methods": [
+    "native-packages",
+    "source-compilation"
+  ],
+  "last_updated": "2025-09-15T22:48:58.447617",
+  "license": "Open Source",
+  "maintenance_status": "active",
+  "name": "nsd",
+  "repository_url": "https://github.com/howtomgr/nsd",
+  "spec_version": "2.0",
+  "subcategory": "dns-servers",
+  "supported_os": [
+    "rhel",
+    "centos",
+    "rocky",
+    "almalinux",
+    "debian",
+    "ubuntu",
+    "arch",
+    "alpine",
+    "opensuse",
+    "sles",
+    "macos",
+    "freebsd",
+    "windows"
+  ],
+  "tags": [
+    "dns-servers",
+    "containerization",
+    "orchestration",
+    "observability",
+    "data-storage",
+    "networking",
+    "security",
+    "data-protection"
+  ],
+  "title": "NSD Installation Guide",
+  "version": "1.0.0",
+  "website_url": "https://howtomgr.github.io/dns-servers/nsd"
+}
